@@ -36,6 +36,9 @@ body {
     margin-left: 10px;
     flex-grow: 1;
 }
+.negritas{
+    font-weight: bold;
+}
 .html-label{
     font-size: 18px;
     font-weight: bold;
@@ -43,7 +46,6 @@ body {
 }
 .username{
     font-size: 18px;
-    font-weight: bold;
     color:black
 }
 .post-img img{
